@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     @BindView(R.id.btn_settings)Button btn_settigns;
     @BindView(R.id.btn_exit)Button btn_exit;
     @BindView(R.id.btn_setalarm)Button btn_setalarm;
-    @BindView(R.id.cb_alarmeveryhour)CheckBox cb_alarmeveryhour;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
